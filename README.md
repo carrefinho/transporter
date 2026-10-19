@@ -1,3 +1,5 @@
+![Transporter keyboard with LED lit up](docs/images/transporter-hero.jpg)
+
 # Transporter
 
 Transporter is a low-profile V4N4G0N type keyboard with exploded bars, built around the $0.5 WCH CH32X035 MCU.
